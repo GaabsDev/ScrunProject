@@ -1,0 +1,8 @@
+# Como a Intel superou os desafios de implementação do seu Time de Engenharia de Desenvolvimento de Produto usando Scrum
+A renomada fabricante de microprocessadores, Intel, enfrentou obstáculos significativos ao implementar seu Time de Engenharia de Desenvolvimento de Produto. A empresa utilizava um programa de testes executado em equipamentos automatizados (ATE), com um sistema operacional proprietário e linguagens de interface que impossibilitavam a adoção de soluções de validação de software padrão da indústria. Em essência, a Intel operava em um ambiente com linguagem proprietária, sem uma estrutura pronta para uso de testes de unidade e sem recursos de teste offline. Além disso, a Intel lutava contra problemas persistentes, como desperdício, comprometimento excessivo, prazos perdidos, semanas de trabalho exaustivas, baixa motivação da equipe e altas taxas de rotatividade.
+
+Dentro da Intel, o grupo de Engenharia de Desenvolvimento de Produto (PDE) tinha a responsabilidade de fornecer materiais de teste para dar suporte à triagem e classificação de dispositivos econômicos.
+
+A cultura em cascata da Intel resultava em divisões funcionais e transferências frequentes de produtos entre as equipes. A alta taxa de rotatividade era consequência da sobrecarga enfrentada pelo grupo PDE no final do ciclo de vida de cada projeto.
+
+Para enfrentar esses desafios, a Intel tomou a decisão estratégica de implementar o Scrum desde as fases iniciais do projeto e de forma progressiva.
